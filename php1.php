@@ -14,7 +14,7 @@
     <?php
     
     $myname = $_GET['userchannel'];
-    echo $myname;
+    echo $myname . "is an Awsome channel";
     
     ?>
 </body>
