@@ -9,6 +9,7 @@
 
     <form method="get">
         <input type="text" name="userchannel">
+        <button type="submit">Submit</button>
 
     </form>
     <?php
