@@ -6,9 +6,14 @@
     <title>Document</title>
 </head>
 <body>
+
+    <form method="get">
+        <input type="text" name="userchannel">
+
+    </form>
     <?php
     
-    $myname = "DTK TV";
+    $myname = $_GET['userchannel'];
     echo $myname;
     
     ?>
