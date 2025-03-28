@@ -16,6 +16,11 @@
     echo "<br>";
     echo strpos("Thiwanka Umesh", "Umesh");
     echo "<br>";
+
+    //maths Funfctions
+
+    echo sin(90);
+    echo "<br>";
     ?>
 </body>
 </html>
