@@ -9,6 +9,8 @@
     <?php
     
     echo strlen("Thiwanka Umesh");
+    echo "<br>";
+    echo str_word_count("Thiwanka Umesh");
     ?>
 </body>
 </html>
