@@ -11,6 +11,11 @@
     echo strlen("Thiwanka Umesh");
     echo "<br>";
     echo str_word_count("Thiwanka Umesh");
+    echo "<br>";
+    echo strrev("Thiwanka Umesh");
+    echo "<br>";
+    echo strpos("Thiwanka Umesh", "Umesh");
+    echo "<br>";
     ?>
 </body>
 </html>
