@@ -15,5 +15,13 @@
 
     </ul>
 
+
+    <?php
+
+    echo $_SESSION['username'];
+    echo "<br>";
+
+    ?>
+
 </body>
 </html>
