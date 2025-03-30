@@ -29,6 +29,13 @@ session_start();
     echo $_SESSION['username'];
     echo "<br>";
 
+    if(!isset($_SESSION['username'])){
+        echo "Session is not set";
+    }else{
+        echo "Session is set";
+    }
+    echo "<br>";
+
 
     ?>
 
