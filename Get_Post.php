@@ -17,6 +17,7 @@
 
     <input type="hidden" name="name" value="Thiwanka Umesh">
     <input type="text" name= "User Input"> 
+    <input type="submit" name="submit" value="Click here">
 
 </form>
 
