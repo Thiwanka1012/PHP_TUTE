@@ -13,7 +13,7 @@
     
     ?>
 
-<form method="GET">
+<form method="POST">
 
     <input type="hidden" name="name" value="Thiwanka Umesh">
     <input type="email" name="email">
