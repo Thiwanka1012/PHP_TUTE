@@ -19,6 +19,9 @@
     <?php
 
     $_SESSION['username']='Thiwa Holdings';
+    echo $_SESSION['username'];
+    echo "<br>";
+    
 
     ?>
 
