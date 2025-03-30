@@ -15,5 +15,12 @@
 
     </ul>
 
+
+    <?php
+
+    $_SESSION['username']='Thiwa Holdings';
+
+    ?>
+
 </body>
 </html>
