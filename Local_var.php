@@ -9,10 +9,10 @@
     <?php
 
         $x=10;
-        function FunctionName($x)
+        function FunctionName()
         {
-            $y=$x*$x;
-            echo $y . "<br>";
+            $GLOBALS['x'];
+            echo $GLOBALS['x'];
         }
 
         FunctionName($x);
