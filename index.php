@@ -1,3 +1,10 @@
+<?php
+session_start();
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +28,7 @@
     $_SESSION['username']='Thiwa Holdings';
     echo $_SESSION['username'];
     echo "<br>";
-    
+
 
     ?>
 
